@@ -75,4 +75,28 @@ z-index: 2;
     
 }
 
+.section-header{
+    width:400px;
+   margin: 0 auto;
+   line-height: 1.7;
+}
 
+/* section service  */
+ .bi{
+    font-size: 50px;
+}
+
+.service .card-title{
+    font-size: 30px;
+}
+ /* team */
+ .team-img{
+    height: 150px;
+    width:150px;
+    object-fit: cover;
+ }
+
+ .bi-icon{
+    font-size: 20px;
+   margin-right: 10px;
+ }
